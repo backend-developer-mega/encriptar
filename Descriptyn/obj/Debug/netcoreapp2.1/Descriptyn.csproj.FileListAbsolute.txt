@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\bin\Debug\netcoreapp2.1\Descriptyn.deps.json
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\bin\Debug\netcoreapp2.1\Descriptyn.runtimeconfig.json
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\bin\Debug\netcoreapp2.1\Descriptyn.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\bin\Debug\netcoreapp2.1\Descriptyn.dll
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\bin\Debug\netcoreapp2.1\Descriptyn.pdb
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.AssemblyInfo.cs
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.RazorTargetAssemblyInfo.cache
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.dll
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.pdb
+C:\Users\pc\source\repos\Descriptyn\Descriptyn\obj\Debug\netcoreapp2.1\Descriptyn.csprojAssemblyReference.cache
